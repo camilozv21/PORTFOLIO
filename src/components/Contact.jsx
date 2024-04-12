@@ -40,9 +40,9 @@ const Contact = () => {
         template_e2mhf2x,
         {
           from_name: form.name,
-          to_name: 'Francisco',
+          to_name: 'Camilo',
           from_email: form.email,
-          to_email: 'franciscogaetano1@gmail.com',
+          to_email: 'camilozv21@gmail.com',
           message: form.message,
         },
         iNKX1fYZz4NBfdNwV
